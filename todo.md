@@ -4,7 +4,7 @@ This exercise was meant to introduce you to many of the different areas of manag
 
 Here are some additional exercises for a deeper dive:
 
-*   [Skills: Secure your repository supply chain](https://github.com/skills/secure-repository-supply-chain)
+~~[Skills: Secure your repository supply chain](https://github.com/skills/secure-repository-supply-chain)~~
 *   [Skills: Introduction to CodeQL](https://github.com/skills/introduction-to-codeql)
 *   [Skills: Introduction to Secret Scanning](https://github.com/skills/introduction-to-secret-scanning)
 
