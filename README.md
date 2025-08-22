@@ -16,12 +16,12 @@
   | Model | Purchase Cost |  Running Cost | Note
   | --- | --- | --- | --- |
   | Paraglider | 4,000€| | Realistic [Example](https://www.airetaventure.com/en/3466-full-packs?srsltid=AfmBOop_erf4A1fqwqfj1p_safpAPDcUzkKXO0PK6bTNA41QLBZdOqDw)
-  | Paramotor | | | Not my favourite
-  | Powered Glider | | | [ULM]()
-  | Powered Fixed-Wing | | | ULM
-  | Gyrocopter | 126,000€ | | | ULM
-  | Light Aircraft |  |  |  | LSA
-  | R22 | 375,000$ | 200$ / hr | Fun  
+  | Paramotor | | | [ULM](https://ffplum.fr/) Class 1. Not my favourite
+  | Pendular | | | ULM 2
+  | Multiaxe | | | ULM 3
+  | Gyrocopter | 126,000€ | | ULM 4
+  | Helicopter |  |  |   ULM 6 (5 is balloon)
+  | R22 | 375,000$ | 200$ / hr | Fun
   | R44 | 527,000$ | 300$ / hr | Practical Fun
   | SR22 | 1M$ | | Capable
   | DA50RG | ~1.5M$ | | Retractable
