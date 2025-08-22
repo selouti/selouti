@@ -20,13 +20,15 @@
   | Pendular | | | ULM 2
   | Multiaxe | | | ULM 3
   | Gyrocopter | 126,000€ | | ULM 4
-  | Helicopter |  |  |   ULM 6 (5 is balloon)
+  | Helicopter | ~200,000€ |  |   ULM 6 (5 is balloon)
   | R22 | 375,000$ | 200$ / hr | Fun
   | R44 | 527,000$ | 300$ / hr | Practical Fun
   | SR22 | 1M$ | | Capable
   | DA50RG | ~1.5M$ | | Retractable
   | DA62 | ~2M$ | | Not pressurized       
   | SR50 | 3M$ | | The real deal
+
+[Aeroexpo](https://www.aeroexpo.online/fr/cat/aeronefs-A.html)
 
 https://www.auto-gyro.com/cavalon/
 
