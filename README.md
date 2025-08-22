@@ -11,3 +11,35 @@
 - 😄 Pronouns: never did any grammar at school
 - ⚡ Fun fact: nearly retired and now I finally attend a University.
 
+  ## Fantasy Hangar
+  
+  | Model | Purchase Cost |  Running Cost | Note
+  | --- | --- | --- | --- |
+  | Paraglider | 4,000€| | Realistic [Example](https://www.airetaventure.com/en/3466-full-packs?srsltid=AfmBOop_erf4A1fqwqfj1p_safpAPDcUzkKXO0PK6bTNA41QLBZdOqDw)
+  | Paramotor | | | Not my favourite
+  | Powered Glider | | | [ULM]()
+  | Powered Fixed-Wing | | | ULM
+  | Gyrocopter | 126,000€ | | | ULM
+  | Light Aircraft |  |  |  | LSA
+  | R22 | 375,000$ | 200$ / hr | Fun  
+  | R44 | 527,000$ | 300$ / hr | Practical Fun
+  | SR22 | 1M$ | | Capable
+  | DA50RG | ~1.5M$ | | Retractable
+  | DA62 | ~2M$ | | Not pressurized       
+  | SR50 | 3M$ | | The real deal
+
+https://www.auto-gyro.com/cavalon/
+
+   https://www.robinsonheli.com
+  
+  https://cirrusaircraft.com
+  
+  https://www.diamondaircraft.com
+  
+  https://www.aircraftcostcalculator.com
+
+  [EASA](https://www.easa.europa.eu/en/regulations/initial-airworthiness-and-environmental-protection)
+
+  
+  
+
