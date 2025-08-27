@@ -27,6 +27,7 @@
   | DA50RG | ~1.5M$ | | Retractable
   | DA62 | ~2M$ | | Not pressurized       
   | SR50 | 3M$ | | The real deal
+  | PC-12 NGX | 5.5M$ | | Now we're getting silly
 
 [Aeroexpo](https://www.aeroexpo.online/fr/cat/aeronefs-A.html)
 
